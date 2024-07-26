@@ -8,3 +8,5 @@ After selecting and training the model using a split of training and testing dat
 and confusion matrix. Hyperparameter tuning is performed to optimize the model, followed by deployment for predicting the species of new iris flowers. 
 The Iris dataset's simplicity and well-defined structure make it ideal for beginners to learn and practice machine learning concepts. 
 The classification task demonstrates the entire workflow of a machine learning project, from data handling to model evaluation and tuning.
+this is the collab link 
+https://colab.research.google.com/drive/1jMZj9fNawHsd7CMD0aU--Gok5gzrQfoy?usp=drive_link
